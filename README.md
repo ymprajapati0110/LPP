@@ -1,1 +1,1 @@
-# LPP
+The Laptop Price Prediction project is a machine learning-based regression system that estimates the market price of a laptop based on its specifications. The core objective is to provide an accurate price prediction by analyzing various hardware and software features of laptops using the XGBoost (Extreme Gradient Boosting) model — a high-performance ensemble learning technique.
